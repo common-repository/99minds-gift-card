@@ -1,0 +1,20 @@
+.cancel-giftcard-button {
+    cursor: pointer;
+}
+.minds-redeem-div{
+    display : block;
+}
+.minds-inline-block1{
+    width : 55%;
+    display : inline-block;
+}
+.minds-inline-block2{
+    display: inline-block;
+    width: 44%;
+}
+.minds-input{
+    width : 100%;
+}
+.inactiveLink {
+    cursor : not-allowed;
+}
